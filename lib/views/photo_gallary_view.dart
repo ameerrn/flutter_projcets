@@ -19,7 +19,7 @@ class PhotoGallaryView extends HookWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Photo Gallery'),
+        title: const Text('Photo_Gallery'),
         actions: [
           IconButton(
             onPressed: () async {
